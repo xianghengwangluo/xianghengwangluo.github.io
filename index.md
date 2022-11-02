@@ -22,6 +22,23 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/2022110210
 	</div>
 </section>
 
-
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/2022110212174296j31.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/2022110212174296j31.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">逗图相机</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款集拍照、图片编辑于一身，让您拍出的照片更加圆滑精彩，开心而又有成就感！ 多种贴纸 各种有趣贴纸，可爱风、让更多人看到不一样的您！ 质感滤镜 有多款系列特色滤镜，让你秒变摄影达人，更有多种专属漏光效果任你玩！ 让你的照片惊艳朋友圈！ 图像处理 超强的照片编辑功能，文字、贴纸、涂鸦、裁剪、饱和度、对比度等多项专业编辑功能，简单实用，让您变成P图大师。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211021220342b3wd.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211021220366c2t9.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211021220394f2yy.png"/>
+	</div>
+</section>
 
 [湘ICP备20007799号-4     长沙祥恒网络有限公司] 
