@@ -5,20 +5,20 @@
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/202211021030021pcdv.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/202211021030021pcdv.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221108/202211081058252oqbd.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221108/202211081058252oqbd.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">美剧星球</b>
+		<b style="font-size: 16px;color: #333;">樱花视频播放器</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款专业的美剧影视剧解说应用，内容丰富，影评精彩。 包含多种美剧影视分类，能快速发现你想要的资源。 通过经典影视影评赏析，感受电影艺术的魅力，发现电影的精彩。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211021032365swbr.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221108/202211081102322vxep.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/20221102103246087oa.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221108/2022110811193864daa.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" 
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/2022110210324886ehx.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221108/202211081119428ixt6.png"/>
 	</div>
 </section>
 
@@ -40,5 +40,26 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/2022110212
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211021220394f2yy.png"/>
 	</div>
 </section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/202211021030021pcdv.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/202211021030021pcdv.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">美剧星球</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款专业的美剧影视剧解说应用，内容丰富，影评精彩。 包含多种美剧影视分类，能快速发现你想要的资源。 通过经典影视影评赏析，感受电影艺术的魅力，发现电影的精彩。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211021032365swbr.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/20221102103246087oa.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/2022110210324886ehx.png"/>
+	</div>
+</section>
+
+
 
 [湘ICP备20007799号-4     长沙祥恒网络有限公司] 
