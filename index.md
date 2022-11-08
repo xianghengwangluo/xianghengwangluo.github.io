@@ -10,7 +10,7 @@
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">樱花视频播放器</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一款专业的美剧影视剧解说应用，内容丰富，影评精彩。 包含多种美剧影视分类，能快速发现你想要的资源。 通过经典影视影评赏析，感受电影艺术的魅力，发现电影的精彩。</p>
+		<p style="margin: 0; font-size: 14px;color: #999;">视频播放必备，实用视频播放工具聚合，您的专属影音播放工具。 相册制作工具，提供滤镜、转场和配乐等，帮你轻松制作出属于自己的个性视频相册! 特色功能： 【视频导入】支持相册快速导入视频、拍摄导入，告别繁琐。 【影视解读】带你发现经典好剧，感受不一样的影视魅力与精彩。 【私密文件】喜欢的精彩视频、图片可以存入私密相册哦。 【视频相册】选择合适的切换模式、音乐即可完成制作自己的动感相册，用视频记录和留住精彩生活。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
