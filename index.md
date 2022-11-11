@@ -10,7 +10,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221109/202211092214162z8pb.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">泰剧谜</b>
+		<b style="font-size: 16px;color: #333;">泰剧迷</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">专为泰剧迷打造的休闲工具，精彩的泰剧解读+泰剧壁纸不容错过。 【经典泰剧赏析】 精彩好看的泰剧解读，专为泰剧爱好者打造，是泰剧迷们必备的休闲工具。 【精选泰剧壁纸】 提供各种的精美好看泰剧壁纸素材，专为泰剧爱好者打造的主题美化工具。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
