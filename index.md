@@ -29,7 +29,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/2022111118
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">快传换机助手</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">专为泰剧迷打造的休闲工具，精彩的泰剧解读+泰剧壁纸不容错过。 【经典泰剧赏析】 精彩好看的泰剧解读，专为泰剧爱好者打造，是泰剧迷们必备的休闲工具。 【精选泰剧壁纸】 提供各种的精美好看泰剧壁纸素材，专为泰剧爱好者打造的主题美化工具。</p>
+		<p style="margin: 0; font-size: 14px;color: #999;">一键解决你搬家换机的问题！数据迁移不再愁！ 无需数据线，不需要电脑, 让你轻松换机迁移成功！</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
