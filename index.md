@@ -9,8 +9,8 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221111/202211111759244lp2i.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">手机视频剪辑</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">手机视频剪辑是一款专业的视频剪辑软件，含有超全剪辑功能 一键轻松剪辑热门短视频、视频裁剪、视频拼接、视频抠图、转场特效、制作音乐相册等等； 你可以给你喜欢的片段进行配音~ 你可以给你制作的视频加上搞笑好玩的贴纸~ 【视频编辑】 - 音乐MV相册、转场特效、滤镜、字幕、涂鸦、旋转和翻转 - 视频编辑、截取、画中画、变声、分割、调色 【剪同款模版】 — 海量视频同款模版，一键轻松制作，让生活秒变大片 【实用工具】 -简单实用生活，便捷你我生活</p>
+		<b style="font-size: 16px;color: #333;">手机视频剪辑大师</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">手机视频剪辑大师是一款专业的视频剪辑软件，含有超全剪辑功能 一键轻松剪辑热门短视频、视频裁剪、视频拼接、视频抠图、转场特效、制作音乐相册等等； 你可以给你喜欢的片段进行配音~ 你可以给你制作的视频加上搞笑好玩的贴纸~ 【视频编辑】 - 音乐MV相册、转场特效、滤镜、字幕、涂鸦、旋转和翻转 - 视频编辑、截取、画中画、变声、分割、调色 【剪同款模版】 — 海量视频同款模版，一键轻松制作，让生活秒变大片 【实用工具】 -简单实用生活，便捷你我生活</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
