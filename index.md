@@ -24,6 +24,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221111/2022111118
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221116/202211161758393ruog.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221116/202211161758393ruog.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">Uni梦境生成器</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">文字的形式来谱写你新的人生！选择你的天赋加点开启你的人生，不同的加点会使你的人生出现不同的道路，怎么选择看你！你可能出生在一个富豪家庭或是一个贫困家庭，有可能会一帆风顺，也有可能会困难不停，但是千万不要放弃！贴近现实的人生故事，搞笑的同时又能领悟出人生的道理，其实人生就是在于探索不断的未知才会变的精彩！寓教于乐，体验人生的酸甜苦辣，可能会发现你的生活很幸福，一起重开人生，来体验一把！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221116/202211161759354ip04.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221116/202211161759382lyoc.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" 
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221116/2022111617594059jh0.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121133281h0h2.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121133281h0h2.png">下载</a>
 	</div>
